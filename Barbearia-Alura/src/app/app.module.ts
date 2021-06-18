@@ -3,14 +3,15 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { BarbeariaComponent } from './Barbearia/Barbearia.component';
-import { ProdutosComponent } from './produtos/produtos.component';
+import { BarbeariaComponent } from './barbearia/barbearia.component';
+import { MenuComponent } from './menu/menu.component';
+
 
 @NgModule({
-  declarations: [		
+  declarations: [	
     AppComponent,
       BarbeariaComponent,
-      ProdutosComponent
+      MenuComponent
    ],
   imports: [
     BrowserModule,

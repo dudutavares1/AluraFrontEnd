@@ -3,11 +3,13 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { BarbeariaComponent } from './Barbearia/Barbearia.component';
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
+  declarations: [	
+    AppComponent,
+      BarbeariaComponent
+   ],
   imports: [
     BrowserModule,
     AppRoutingModule

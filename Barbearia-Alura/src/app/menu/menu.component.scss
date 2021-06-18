@@ -1,29 +1,36 @@
 header {
-  background: #BBBBBB;
-  padding: 20px 0;
+    background: #BBBBBB;
+    padding: 20px 0;
 }
 
 .caixa {
-  position: relative;
-  width: 940px;
-  margin: 0 auto;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+.banner {
+	margin-top: 50px;
+
+
 }
 
 nav {
-  position: fixed;
-  top: 110px;
-  right: 0;
+	text-align: center;
+	margin-top: -250px;
+    top: 110px;
+    right: 0;
 }
 
 nav li {
-  display: inline;
-  margin: 0 0 0 15px;
-}
+    display: inline;
+    margin: 0 0 0 15px;
+    font-size: 22px;
+  }
 
 nav a {
-  text-transform: uppercase;
-  color: #000000;
-  font-weight: bold;
-  font-size: 22px;
-  text-decoration: none;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+
+    text-decoration: none;
 }

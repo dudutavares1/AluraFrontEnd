@@ -7,15 +7,17 @@ import { BarbeariaComponent } from './barbearia/barbearia.component';
 import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { ContatoComponent } from './contato/contato.component';
+import { ProdutosComponent } from './produtos/produtos.component';
 
 
 @NgModule({
-  declarations: [			
+  declarations: [				
     AppComponent,
       BarbeariaComponent,
       MenuComponent,
       RodapeComponent,
-      ContatoComponent
+      ContatoComponent,
+      ProdutosComponent
    ],
   imports: [
     BrowserModule,

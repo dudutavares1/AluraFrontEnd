@@ -41,12 +41,11 @@ nav a:hover {
 }
 
 .produtos li:hover {
-  color: #c78c19;
-  font-size: 40px;
+  border-color: #c78c19;
 }
 
 .produtos li:active {
-  border-color: #88c198;
+  border-color: #088c19;
 }
 
 .produtos li:hover h2 {

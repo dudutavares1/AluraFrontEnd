@@ -1,0 +1,59 @@
+
+p {
+  font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #6C6C6C;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+
+.titulo-principal {
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #6C6C6C;
+  align-items: center;
+  text-align: center;
+  line-height: 24px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  grid: none;
+  padding: 16px 15px;
+  gap: 10px;
+  margin: 20px 0;
+  margin-top: 20px;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.botao {
+  color: #FFFFFF;
+  background: #FB5C00;
+  border: 2px solid #FB5C00;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  align-items: center;
+  text-align: center;
+  line-height: 24px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  grid: none;
+  padding: 16px 15px 8;
+  gap: 10px;
+  margin: 20px 0;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: flex-start;
+
+}
